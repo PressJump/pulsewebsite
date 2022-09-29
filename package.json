@@ -13,10 +13,12 @@
     "markdown-it": "^13.0.1",
     "markdown-it-front-matter": "^0.2.3",
     "next": "12.2.2",
+    "nextra": "^1.1.0",
     "octokit": "^1.7.1",
     "react": "18.2.0",
     "react-compare-slider": "^2.2.0",
     "react-dom": "18.2.0",
+    "rss": "^1.2.2",
     "yaml": "^2.1.1"
   },
   "devDependencies": {
